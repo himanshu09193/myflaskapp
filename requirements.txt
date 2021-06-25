@@ -1,1 +1,6 @@
 flask
+data
+flask_mysqldb
+wtforms
+passlib
+functools
